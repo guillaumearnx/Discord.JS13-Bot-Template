@@ -8,7 +8,7 @@
     "discord-api-types": "^0.31.0",
     "discord.js": "^13.6.0",
     "fs": "^0.0.1-security",
-    "npm-check-updates": "^12.5.8",
+    "npm-check-updates": "^16.0.1",
     "recursive-readdir": "^2.2.2"
   }
 }
